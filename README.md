@@ -13,7 +13,6 @@ Soft-core RISC-V SoC on FPGA for real-time robotic manipulation with a productio
 
 ## 0. tl;dr (quick start)
 
-```bash
 # deps (Ubuntu-ish)
 sudo apt-get install make gcc g++ python3 python3-venv git graphviz
 # riscv toolchain (recommended): https://github.com/riscv-collab/riscv-gnu-toolchain
